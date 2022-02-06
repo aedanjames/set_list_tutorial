@@ -249,40 +249,12 @@
           1,
           1,
           1,
+          1,
+          1,
           null
         ]
       },
       "/Users/aedanyturralde/turing/2module/backup_practice/set_list_tutorial/app/helpers/application_helper.rb": {
-        "lines": [
-          1,
-          null
-        ]
-      },
-      "/Users/aedanyturralde/turing/2module/backup_practice/set_list_tutorial/app/controllers/artists_controller.rb": {
-        "lines": [
-          1,
-          1,
-          2,
-          null,
-          null,
-          1,
-          null,
-          null,
-          1,
-          null,
-          1,
-          1,
-          null,
-          null,
-          1,
-          null,
-          1,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/aedanyturralde/turing/2module/backup_practice/set_list_tutorial/app/controllers/application_controller.rb": {
         "lines": [
           1,
           null
@@ -308,8 +280,48 @@
           1,
           null
         ]
+      },
+      "/Users/aedanyturralde/turing/2module/backup_practice/set_list_tutorial/app/controllers/artists_controller.rb": {
+        "lines": [
+          1,
+          1,
+          3,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          0,
+          0,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/aedanyturralde/turing/2module/backup_practice/set_list_tutorial/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1644113625
+    "timestamp": 1644117481
   }
 }
