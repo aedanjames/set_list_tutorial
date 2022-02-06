@@ -1,0 +1,6 @@
+<!-- post indicates we're creating, and artists indicates we'll create an artist that will be reflected in index of all artists -->
+<%= form_with url:'/artists', method: :post, local: :true do |form| %>
+    <%= form.label :name %> 
+    <%= form.text_field :name %> 
+    <%= form.submit "Create Artist" %> 
+<% end %> 

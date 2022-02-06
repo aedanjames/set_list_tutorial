@@ -1,4 +1,5 @@
 class Artist < ApplicationRecord
+    # activerecord association
     has_many :songs
 
     def average_song_length

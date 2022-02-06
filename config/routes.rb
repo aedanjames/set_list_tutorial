@@ -3,6 +3,8 @@ Rails.application.routes.draw do
   get '/songs', to: 'songs#index'
   # :id is a dynamic segment, not a true symbol. It's a placeholder. A specific syntax for route DSL
   get 'songs/:id', to: 'songs#show'
-
   get 'artists/:artist_id/songs', to: "artist_songs#index"
+  get '/artists', to: 'artists#index'
+  get '/artists/new', to: 'artists#new'
+  post '/artists', to: 'artists#create'
 end
